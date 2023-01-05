@@ -1,4 +1,4 @@
-# Statistical Inference via Data Science Using R
+# [**Statistical Inference via Data Science Using R (DSM-1005)**](https://github.com/MohammadWasiq0786/Statistical-Inference-via-Data-Science-Using-R)
 
 I followed the book **Statistical Inference via Data Science A ModernDive into R and 
 the Tidyverse** by **Chester Ismay and Albert Y. Kim**
