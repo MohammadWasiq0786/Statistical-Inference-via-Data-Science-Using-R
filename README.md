@@ -3,6 +3,8 @@
 I followed the book **Statistical Inference via Data Science A ModernDive into R and 
 the Tidyverse** by **Chester Ismay and Albert Y. Kim**
 
+![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_resized.png)
+
 I thankful to [**Prof. Athar Ali Khan Sir**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan) who teach me R Programming.
 
 I divide this into 4 parts :
